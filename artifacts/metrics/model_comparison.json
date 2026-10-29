@@ -1,0 +1,50 @@
+{
+  "Random Forest": {
+    "Accuracy": 0.9911,
+    "Precision": 0.9858,
+    "Recall": 1.0,
+    "F1-Score": 0.9928,
+    "ROC-AUC": 1.0,
+    "Train_Duration_s": 0.197
+  },
+  "Gradient Boosting": {
+    "Accuracy": 0.999,
+    "Precision": 0.9984,
+    "Recall": 1.0,
+    "F1-Score": 0.9992,
+    "ROC-AUC": 1.0,
+    "Train_Duration_s": 2.339
+  },
+  "Multilayer Perceptron": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1-Score": 1.0,
+    "ROC-AUC": 1.0,
+    "Train_Duration_s": 0.869
+  },
+  "K-Nearest Neighbors": {
+    "Accuracy": 0.9405,
+    "Precision": 0.9285,
+    "Recall": 0.9791,
+    "F1-Score": 0.9531,
+    "ROC-AUC": 0.9848,
+    "Train_Duration_s": 0.001
+  },
+  "Soft Voting Ensemble": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1-Score": 1.0,
+    "ROC-AUC": 1.0,
+    "Train_Duration_s": 0.5
+  },
+  "Stacking Ensemble": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1-Score": 1.0,
+    "ROC-AUC": 1.0,
+    "Train_Duration_s": 0.5
+  }
+}

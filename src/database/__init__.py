@@ -1,0 +1,45 @@
+from src.database.connection import Base, engine, get_db, get_db_context, init_db
+from src.database.models import (
+    User,
+    UserProfile,
+    DietaryPreference,
+    Food,
+    MealPlan,
+    MealPlanItem,
+    MealLog,
+    ProgressRecord,
+    RecommendationFeedback,
+)
+from src.database.repositories import (
+    UserRepository,
+    ProfileRepository,
+    FoodDatabaseRepository,
+    MealPlanRepository,
+    MealLogRepository,
+    ProgressRepository,
+    FeedbackRepository,
+)
+
+__all__ = [
+    "Base",
+    "engine",
+    "get_db",
+    "get_db_context",
+    "init_db",
+    "User",
+    "UserProfile",
+    "DietaryPreference",
+    "Food",
+    "MealPlan",
+    "MealPlanItem",
+    "MealLog",
+    "ProgressRecord",
+    "RecommendationFeedback",
+    "UserRepository",
+    "ProfileRepository",
+    "FoodDatabaseRepository",
+    "MealPlanRepository",
+    "MealLogRepository",
+    "ProgressRepository",
+    "FeedbackRepository",
+]

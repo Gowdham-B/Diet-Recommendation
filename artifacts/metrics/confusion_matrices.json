@@ -1,0 +1,62 @@
+{
+  "Random Forest": [
+    [
+      376,
+      9
+    ],
+    [
+      0,
+      623
+    ]
+  ],
+  "Gradient Boosting": [
+    [
+      384,
+      1
+    ],
+    [
+      0,
+      623
+    ]
+  ],
+  "Multilayer Perceptron": [
+    [
+      385,
+      0
+    ],
+    [
+      0,
+      623
+    ]
+  ],
+  "K-Nearest Neighbors": [
+    [
+      338,
+      47
+    ],
+    [
+      13,
+      610
+    ]
+  ],
+  "Soft Voting Ensemble": [
+    [
+      385,
+      0
+    ],
+    [
+      0,
+      623
+    ]
+  ],
+  "Stacking Ensemble": [
+    [
+      385,
+      0
+    ],
+    [
+      0,
+      623
+    ]
+  ]
+}

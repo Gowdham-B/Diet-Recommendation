@@ -1,0 +1,17 @@
+{
+  "macro_compatibility_score": 0.0939,
+  "goal_protein_alignment": 0.0765,
+  "user_goal_Endurance Training (+10%)": 0.0515,
+  "user_carb_target_g": 0.0429,
+  "food_fiber_serving": 0.0412,
+  "user_goal_Maintenance": 0.0412,
+  "user_fat_target_g": 0.0408,
+  "carb_density": 0.0373,
+  "user_diet_pattern_Keto / Low-Carb": 0.0373,
+  "user_diet_pattern_Vegan": 0.0342,
+  "protein_density": 0.0334,
+  "protein_share_of_target": 0.0324,
+  "user_protein_target_g": 0.032,
+  "fat_density": 0.032,
+  "food_fat_serving": 0.0297
+}
